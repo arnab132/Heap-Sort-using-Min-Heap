@@ -22,4 +22,5 @@ Given an array of elements, sort the array in decreasing order using min heap.
 Examples:
 
 Input : arr[] = {5, 3, 10, 1}
+
 Output : arr[] = {10, 5, 3, 1}
